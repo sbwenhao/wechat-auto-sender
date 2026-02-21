@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WechatAutoSender" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/wechat_green</item>
+        <item name="colorPrimaryVariant">@color/wechat_green_dark</item>
+        <item name="colorSecondary">@color/wechat_green</item>
+        <item name="colorError">@color/black</item>
+    </style>
+</resources>
